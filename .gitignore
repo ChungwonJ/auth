@@ -35,3 +35,11 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# application.yml 제외
+application.yml
+application.yaml
+
+# 환경별 설정 파일도 제외
+application-*.yml
+application-*.yaml
